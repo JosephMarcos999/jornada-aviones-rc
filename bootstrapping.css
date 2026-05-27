@@ -37,3 +37,31 @@ body {
   padding: 12px 40px;
   font-weight: 500;
 }
+
+section#programa .card {
+  border-radius: 12px;
+  transition: transform 0.3s;
+}
+
+section#programa .card:hover {
+  transform: translateY(-10px);
+}
+
+section#componentes {
+  background-color: #0d3b66;
+}
+
+section#componentes .card {
+  background-color: #ffffff;
+  color: #212529;
+  border-radius: 12px;
+  transition: transform 0.3s;
+}
+
+section#componentes .card:hover {
+  transform: translateY(-10px);
+}
+
+footer {
+  background-color: #212529;
+}
