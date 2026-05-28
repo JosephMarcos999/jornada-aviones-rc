@@ -1,6 +1,6 @@
 # Jornada de Aviones RC
 
-Web informativa para una jornada de iniciación al aeromodelismo radiocontrol. Práctica de la asignatura Aplicaciones Web realizada con HTML5, Bootstrap 5 y CSS propio.
+Web informativa para una jornada de iniciación al aeromodelismo radiocontrol, web realizada con HTML5, Bootstrap 5 y CSS 
 
 
 
