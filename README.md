@@ -46,8 +46,11 @@ Sitio web estático de una sola página que presenta un evento formativo sobre a
 
 Los commits 4, 5 y 6 se realizaron en la rama `feature/mejoras-visuales` y se fusionaron a la rama principal mediante Pull Request.
 
+## Mayor dificultad
 
+Lo más complicado no fue la web en sí, sino configurar GitHub al principio. Tenía dos cuentas y el ordenador usaba la que no era, así que al hacer el push me daba error de permisos todo el rato aunque el repositorio fuera mío. Después de probar varias cosas, lo solucioné creando el repositorio en la cuenta que el ordenador ya tenía guardada, y a partir de ahí ya pude subir todo sin problemas.
 
+---
 ## Estructura
 
 
